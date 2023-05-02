@@ -118,5 +118,43 @@ Este atributo possuía diversos valores NULOS. No ínicio, houve-se uma dúvdia 
 # Análise descritiva e Visualização
 
 
+Nesta etapa, algumas perguntas que foram formmuladas puderam ser respondidas por meio da análise dos dados, seguido das visualização destas respostas por meio de gráficos.
+
+## Qual a proporção de candidatos por partido?
+
+Abaixo, o gráfico que contém a proporção de candidatos por partido pode ser analisado.
+
+![Screenshot from 2023-05-02 16-21-38](https://user-images.githubusercontent.com/91696970/235798310-83debe11-3106-4411-8a35-9b1fe58c376e.png)
+
+Há na política brasileira 28 partidos com uma média de 15.307 candidatos por partido e desvio padrão de 13.478, idicando que os dados estão dispersos no dataset. Quando observa-se o gráfico de candidatos por partido nota-se uma certa polarização dos dados, em que poucos partidos obtêm um número expressivo de candidatos enquanto outros contêm uma amostragem pequena. Logo, embora a média de candidatos por partido seja grande, muitos partidos não possuem essa quantidade de candidatos, possuindo valores bem inferiores enquanto poucos partidos possuem muitos candidatos, exibindo uma grande concentração de poder em poucos partidos, o que pode ser um problema para a representativdade brasileira.
+
+## Qual a proporção de gênero para cada cargo eleitoral?
+
+Abaixo, podemos verificar a proporção de mulheres em cada cargo eleitoral.
+
+![download](https://user-images.githubusercontent.com/91696970/235798787-19a188bf-4dab-43ec-a9c3-ea2bd12c8391.png)
+
+Algo interessante de se notar neste gráfico é que a maior de proporção de mulher em cargos são em cargos de vice-governador e vice-presidente. Embora estes dois cargos tenham uma quantidade menor do que o restante, visto que possúimos apenas 27 estados, é interessante notar que isto provavelmente acontece pois na maioria dos casos o presidente/governador são homens, e uma mulher é colocada como vice para dar uma falsa sensação de representatividade para a população e com isso passar uma imagem que o partido e o candidato estejam ligados a representatividade feminina. Após as últimas eleições (2022) foi verificado que dos 27 governadores eleitos, apenas 2 são mulheres, o que é bem preocupante e exibe a falta de representatividade feminia em grandes cargos políticos.
+
+Além disso, é possível observar a clara desigualdade em relação a cargos políticos para os outros cargos, a maioria dos cargos, as mulheres não representam mais de 35% dos candidatos, demonstrando uma falta de apoia e de suporte ao ingresso de mulheres na política.
+
+# Conclusão
+
+Neste projeto, foi realizado uma análise sobre os dados, em que todas as etapas foram realizadas. A primeira foi a Escolha do dataset, que foi algo importante, pois foi escolhido o conjunto de dados do TSE, que trás muitas informações sobre os representantes políticos no Brasil. Após isso, foi realizado a Preparação dos Dados, uma etapa muito importante, pois caso os dados não estejam formatados, isso pode tornar a análise deles algo bem complexa. Após essa etapa, foi realizada a Análise Descritiva dos dados.
+
+É possível concluir que a Analíse Descritiva é uma ferramenta muito poderosa para a obtenção de respostas sobre algum conjunto de dados. Nesse caso foi possível obter muitas respostas sobre questionamentos que foram levantados previamente. Com isso, conseguimos entender melhor como a política brasileira está composta, e quais as características dos indivíduos que nos representam.
+
+Há na política brasileira 28 partidos com uma média de 15.307 candidatos por partido e desvio padrão de 13.478, idicando que os dados estão dispersos no dataset. Quando observa-se o gráfico de candidatos por partido nota-se uma certa polarização dos dados, em que poucos partidos obtêm um número expressivo de candidatos enquanto outros contêm uma amostragem pequena.
+
+Quando analisado a proporção de gênero por cargo observamos que a representatividade feminina não corresponde ao percentual desta classe na população, tendo o cargo de prefeito com o menor percentual e o de vice-governador com o maior. A proporção de candidatos pretos e partos nos partidos estão de certa forma correspondentes com a distribuição dessas classes na população, contudo para a população parda alguns partidos estão abaixo do esperado.
+
+A relação de idade por cargo eleitoral observa-se que a posição de vereador é a que apresenta menor média de idade e a de cargo de presidente a maior, com a candidata mais velha de 100 anos e os candidatos mais novos com 18 anos. Já analisando a instrução de nível superior por cargo, a posição de vice-governador apresenta todos os candidatos com esta instrução e a maioria dos partidos com mais da metade de seus colaboradores com nível superior também.
+
+Contudo, a análise do dataset referente as eleições de 2018 às 2022 pode ser considerada como bem sucedida em que primordialmente foi feita uma análise prévia dos dados e sua respectiva limpeza, e após isto foi feito uma análise descritivia mais detalhada a respeito dos pontos mais pertinentes levantados pela equipe, e ao fim, a plotagem de seus gráficos.
+
+
+# Pariticpantes
+
+
 
 
