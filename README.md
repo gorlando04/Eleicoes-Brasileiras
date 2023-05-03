@@ -153,7 +153,7 @@ A relação de idade por cargo eleitoral observa-se que a posição de vereador 
 Contudo, a análise do dataset referente as eleições de 2018 às 2022 pode ser considerada como bem sucedida em que primordialmente foi feita uma análise prévia dos dados e sua respectiva limpeza, e após isto foi feito uma análise descritivia mais detalhada a respeito dos pontos mais pertinentes levantados pela equipe, e ao fim, a plotagem de seus gráficos.
 
 
-# Pariticpantes
+
 
 
 
