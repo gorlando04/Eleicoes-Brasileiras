@@ -64,7 +64,7 @@ Dessa maneira, a primeira tarefa a ser realizada é a remoção de atributos amb
 
 ![Screenshot from 2023-05-02 15-57-31](https://user-images.githubusercontent.com/91696970/235794818-fe89c277-e2c1-4981-a95d-acdc6e86903a.png)
 
-Após a remoção dos atributos redundantes outra decisão tomada foi a retirada de atributos irrelevantes para responder as perguntas propostas acima. Isso significa, que os atributos que não seriam utilizados na análise dos dados para responder as perguntas seriam removidos para evitar confusão e também diminuir a dimensionalidade do conjunto de dados. No caso que está sendo desenvolvido os seguintes atributos não seriam utilizados e foram removidos:
+Após a remoção dos atributos redundantes outra decisão tomada foi a retirada de atributos irrelevantes para responder as perguntas propostas acima. Isso significa, que os atributos que não seriam utilizados na análise dos dados para responder as perguntas seriam removidos para evitar confusão e também diminuir a dimensionalidade do conjunto de dados. No caso, o que está sendo desenvolvido os seguintes atributos não seriam utilizados e foram removidos:
 
 1. Ano
 2. Titulo eleitoral
